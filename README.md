@@ -16,4 +16,3 @@ Tecnologias usadas:
 -Swagger
 -Postman
 
-Instrucciones del levantamiento:
